@@ -1,0 +1,114 @@
+body {
+  /* font-family: 'Montserrat', sans-serif; */
+  background-color: #EFEFEF;
+}
+
+/* Navigation Bar */
+.navbar-custom {
+  background-color: #293B5F;
+}
+
+.brand-custom {
+  color: #fff;
+  margin-right: 80px;
+}
+
+.logo {
+  width: 130px;
+}
+
+.home-icon {
+  color: #fff;
+  margin: 0 3rem 0;
+}
+
+.login-button {
+	background-color:#E16E3B;
+	border-radius:3px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:5px 45px;
+	text-decoration:none;
+}
+.login-button:hover {
+	background-color:#d9493c;
+}
+.login-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+/* Post-section */
+
+#post-section {
+  padding: 2rem 0;
+}
+
+.container {
+  margin: auto;
+}
+
+.card {
+  border-width: 2px;
+  color: gray;
+  padding: 15px;
+}
+
+.right-card {
+  margin-bottom: 20px;
+}
+
+.orange-heading {
+  color: #E16E3B;
+  font-weight: bold;
+  margin: 0;
+  vertical-align: middle;
+}
+
+.description {
+  font-size: 11px;
+  margin: 0;
+  color: gray;
+  text-align: left;
+}
+
+.post-box {
+  vertical-align: middle;
+}
+
+.input-form {
+
+}
+
+.input-form {
+  width:100%;
+  margin:auto;
+  position:relative;
+  align-self: baseline;
+}
+
+.que-input {
+  margin-top: 10px;
+  border-width: 0;
+  background-color: #EFEFEF;
+  height: 70px;
+  width: 100%;
+}
+
+/* Answer section */
+
+.question {
+  color: #293B5F;
+  font-size: 1.2rem;
+}
+
+.answer-image {
+  margin: 20px auto;
+  width: 30rem;
+}
